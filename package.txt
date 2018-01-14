@@ -1,0 +1,5 @@
+NAME=libelf
+VERSION=0.170
+REVISION=1
+SRC=https://sourceware.org/ftp/elfutils/0.170/elfutils-0.170.tar.bz2
+SRCMD5=03599aee98c9b726c7a732a2dd0245d5
